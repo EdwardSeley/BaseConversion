@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Base Conversion</string>
+    <string name="title_text">Choose a number, a base to convert from, and a base to convert to.</string>
+    <string name="enter_button">Enter</string>
+    <string name="starting_base_hint">starting base</string>
+    <string name="ending_base_hint">end base</string>
+    <string name="input_number_hint">#</string>
+</resources>
